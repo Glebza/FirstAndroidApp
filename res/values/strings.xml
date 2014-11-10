@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstAndroidApp</string>
+    <string name="action_bar_title">Action Bar</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_display_message">Child Activity</string>
+    <string name="contactAddress">SIP Address to contact</string>
+    <string name="talk">Talk</string>
+    <string name="title_call_activity">Call</string>
+    <string name="title_message_activity">My Messages</string>
+    <string name="title_settings_activity">Settings</string>
+</resources>
